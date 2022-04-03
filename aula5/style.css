@@ -1,0 +1,31 @@
+h1{
+	font-family: Arial;
+	font-size: 60px;
+	color: #4670E3;
+	background-color: #D4FB4E;
+	padding: 50px;
+	text-align: center;
+	
+}
+
+p.destaque{
+		color: RED ; 
+		background-color: black; 
+		font-family: ROBOTO; 
+		font-size: 30pt;
+		text-align: center;
+	}
+p.pequeno{
+	color: white; 
+	background-color: blue; 
+	font-family: ROBOTO; 
+	font-size: 60pt;
+	text-align: center;
+
+}
+body{
+	font-family: roboto;
+	color: gray;
+	background-color: black;
+	text-align: right;
+}
